@@ -1,5 +1,4 @@
-# Project Name
-
+# Dashbaord Project
 A simple React-based dashboard application with authentication and data visualization. The project demonstrates reusable components, routing, and state management.
 
 ---
