@@ -37,13 +37,13 @@ src/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/project-name.git
+   git clone https://github.com/Sharthak1705/dashboard/
    ```
 
 2. Navigate into the project folder:
 
    ```bash
-   cd project-name
+   cd dashboard
    ```
 
 3. Install dependencies:
@@ -88,7 +88,6 @@ src/
 
 ### 5. **Register**
 
-* Allows new users to sign up and store data locally (or via API).
 * Validates input fields for better user experience.
 * Connects seamlessly to the login system.
 
@@ -96,7 +95,7 @@ src/
 
 * Entry point for authentication.
 * Redirects users to the dashboard after login.
-* Uses localStorage (for trial/demo) or backend APIs.
+* Uses localStorage for trial
 
 ---
 
@@ -106,22 +105,6 @@ src/
 * **Routing**: React Router
 * **State Management**: Redux Toolkit (for usage data & filters)
 * **Charts**: Recharts
-
----
-
-## 📸 Screenshots
-
-*(Add screenshots of login page, dashboard, and transactions table here)*
-
----
-
-## ✨ Future Improvements
-
-* Replace localStorage with JWT + backend authentication.
-* Add role-based access for Admin/User.
-* Export transaction history as CSV/Excel.
-
----
 
 ## 📄 License
 
