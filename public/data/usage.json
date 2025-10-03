@@ -1,0 +1,2632 @@
+[
+  {
+     "date": "2025-09-30",
+     "spend": 120
+  },
+  {
+    "date": "2025-09-30",
+    "spend": 120,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-29",
+    "gb": 2.1,
+    "spend": 80
+  },
+  {
+    "date": "2025-09-28",
+    "gb": 3.5,
+    "spend": 100,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-27",
+    "gb": 4.2,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-26",
+    "gb": 6.7,
+    "spend": 220,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-25",
+    "gb": 1.9,
+    "spend": 130,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-24",
+    "gb": 5.1,
+    "spend": 410,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-23",
+    "gb": 7.3,
+    "spend": 90,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-22",
+    "gb": 2.8,
+    "spend": 300,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-21",
+    "gb": 9.4,
+    "spend": 150,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-20",
+    "gb": 3.2,
+    "spend": 210,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-19",
+    "gb": 4.7,
+    "spend": 80,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-18",
+    "gb": 6.1,
+    "spend": 120,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-17",
+    "gb": 7.8,
+    "spend": 60,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-16",
+    "gb": 2.4,
+    "spend": 180,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-15",
+    "gb": 8.3,
+    "spend": 75,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-14",
+    "gb": 1.2,
+    "spend": 95,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-13",
+    "gb": 5.9,
+    "spend": 200,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-12",
+    "gb": 4.0,
+    "spend": 140,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-11",
+    "gb": 3.6,
+    "spend": 110,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-30",
+    "gb": "BAD_GB_TYPE",
+    "spend": 120,
+    "status": "Completed",
+    "description": "Edge Case: Bad type for GB (should be parsed as 0)"
+  },
+  {
+    "date": "2025-09-29",
+    "gb": 2.1,
+    "spend": 80
+  },
+  {
+    "date": "2025-09-28",
+    "gb": 3.5,
+    "spend": 100,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-27",
+    "gb": 4.2,
+    "spend": 50,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-26",
+    "gb": 6.7,
+    "spend": 220,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-25",
+    "gb": 1.9,
+    "spend": 130,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-24",
+    "gb": 5.1,
+    "spend": 410,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-23",
+    "gb": 7.3,
+    "spend": 90,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-22",
+    "gb": 2.8,
+    "spend": 300,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-21",
+    "gb": 9.4,
+    "spend": 150,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-20",
+    "gb": 3.2,
+    "spend": 210,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-19",
+    "gb": 4.7,
+    "spend": 80,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-18",
+    "gb": 6.1,
+    "spend": 120,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-17",
+    "gb": 7.8,
+    "spend": 60,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-16",
+    "gb": 2.4,
+    "spend": 180,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-15",
+    "gb": 8.3,
+    "spend": 75,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-14",
+    "gb": 1.2,
+    "spend": 95,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-13",
+    "gb": 5.9,
+    "spend": 200,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-12",
+    "gb": 4.0,
+    "spend": 140,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-11",
+    "gb": 3.6,
+    "spend": 110,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-30",
+    "gb": 3.5,
+    "spend": 120,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-29",
+    "gb": 2.1,
+    "spend": 80
+  },
+  {
+    "date": "2025-09-28",
+    "gb": 3.5,
+    "spend": 100,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-27",
+    "gb": 4.2,
+    "spend": 50,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-26",
+    "gb": 6.7,
+    "spend": 220,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-25",
+    "gb": 1.9,
+    "spend": 130,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-24",
+    "gb": 5.1,
+    "spend": 410,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-23",
+    "gb": 7.3,
+    "spend": 90,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-22",
+    "gb": 2.8,
+    "spend": 300,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-21",
+    "gb": 9.4,
+    "spend": 150,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-20",
+    "gb": 3.2,
+    "spend": 210,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-19",
+    "gb": 4.7,
+    "spend": 80,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-18",
+    "gb": 6.1,
+    "spend": 120,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-17",
+    "gb": 7.8,
+    "spend": 60,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-16",
+    "gb": 2.4,
+    "spend": 180,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-15",
+    "gb": 8.3,
+    "spend": 75,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-14",
+    "gb": 1.2,
+    "spend": 95,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-13",
+    "gb": 5.9,
+    "spend": 200,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-12",
+    "gb": 4.0,
+    "spend": 140,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-11",
+    "gb": 3.6,
+    "spend": 110,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-30",
+    "gb": 3.5,
+    "spend": 120,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-29",
+    "gb": 2.1,
+    "spend": 80
+  },
+  {
+    "date": "2025-09-28",
+    "gb": 3.5,
+    "spend": 100,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-27",
+    "gb": 4.2,
+    "spend": 50,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-26",
+    "gb": 6.7,
+    "spend": 220,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-25",
+    "gb": 1.9,
+    "spend": 130,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-24",
+    "gb": 5.1,
+    "spend": 410,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-23",
+    "gb": 7.3,
+    "spend": 90,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-22",
+    "gb": 2.8,
+    "spend": 300,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-21",
+    "gb": 9.4,
+    "spend": 150,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-20",
+    "gb": 3.2,
+    "spend": 210,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-19",
+    "gb": 4.7,
+    "spend": 80,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-18",
+    "gb": 6.1,
+    "spend": 120,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-17",
+    "gb": 7.8,
+    "spend": 60,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-16",
+    "gb": 2.4,
+    "spend": 180,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-15",
+    "gb": 8.3,
+    "spend": 75,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-14",
+    "gb": 1.2,
+    "spend": 95,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-13",
+    "gb": 5.9,
+    "spend": 200,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-12",
+    "gb": 4.0,
+    "spend": 140,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-11",
+    "gb": 3.6,
+    "spend": 110,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-30",
+    "gb": 3.5,
+    "spend": 120,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-29",
+    "gb": 2.1,
+    "spend": 80
+  },
+  {
+    "date": "2025-09-28",
+    "gb": 3.5,
+    "spend": 100,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-27",
+    "gb": 4.2,
+    "spend": 50,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-26",
+    "gb": 6.7,
+    "spend": 220,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-25",
+    "gb": 1.9,
+    "spend": 130,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-24",
+    "gb": 5.1,
+    "spend": 410,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-23",
+    "gb": 7.3,
+    "spend": 90,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-22",
+    "gb": 2.8,
+    "spend": 300,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-21",
+    "gb": 9.4,
+    "spend": 150,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-20",
+    "gb": 3.2,
+    "spend": 210,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-19",
+    "gb": 4.7,
+    "spend": 80,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-18",
+    "gb": 6.1,
+    "spend": 120,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-17",
+    "gb": 7.8,
+    "spend": 60,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-16",
+    "gb": 2.4,
+    "spend": 180,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-15",
+    "gb": 8.3,
+    "spend": 75,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-14",
+    "gb": 1.2,
+    "spend": 95,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-13",
+    "gb": 5.9,
+    "spend": 200,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-12",
+    "gb": 4.0,
+    "spend": 140,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-11",
+    "gb": 3.6,
+    "spend": 110,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-30",
+    "gb": 3.5,
+    "spend": 120,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-29",
+    "gb": 2.1,
+    "spend": 80
+  },
+  {
+    "date": "2025-09-28",
+    "gb": 3.5,
+    "spend": 100,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-27",
+    "gb": 4.2,
+    "spend": 50,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-26",
+    "gb": 6.7,
+    "spend": 220,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-25",
+    "gb": 1.9,
+    "spend": 130,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-24",
+    "gb": 5.1,
+    "spend": 410,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-23",
+    "gb": 7.3,
+    "spend": 90,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-22",
+    "gb": 2.8,
+    "spend": 300,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-21",
+    "gb": 9.4,
+    "spend": 150,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-20",
+    "gb": 3.2,
+    "spend": 210,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-19",
+    "gb": 4.7,
+    "spend": 80,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-18",
+    "gb": 6.1,
+    "spend": 120,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-17",
+    "gb": 7.8,
+    "spend": 60,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-16",
+    "gb": 2.4,
+    "spend": 180,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-15",
+    "gb": 8.3,
+    "spend": 75,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-14",
+    "gb": 1.2,
+    "spend": 95,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-13",
+    "gb": 5.9,
+    "spend": 200,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-12",
+    "gb": 4.0,
+    "spend": 140,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-11",
+    "gb": 3.6,
+    "spend": 110,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-30",
+    "gb": 3.5,
+    "spend": 120,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-29",
+    "gb": 2.1,
+    "spend": 80
+  },
+  {
+    "date": "2025-09-28",
+    "gb": 3.5,
+    "spend": 100,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-27",
+    "gb": 4.2,
+    "spend": 50,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-26",
+    "gb": 6.7,
+    "spend": 220,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-25",
+    "gb": 1.9,
+    "spend": 130,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-24",
+    "gb": 5.1,
+    "spend": 410,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-23",
+    "gb": 7.3,
+    "spend": 90,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-22",
+    "gb": 2.8,
+    "spend": 300,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-21",
+    "gb": 9.4,
+    "spend": 150,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-20",
+    "gb": 3.2,
+    "spend": 210,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-19",
+    "gb": 4.7,
+    "spend": 80,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-18",
+    "gb": 6.1,
+    "spend": 120,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-17",
+    "gb": 7.8,
+    "spend": 60,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-16",
+    "gb": 2.4,
+    "spend": 180,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-15",
+    "gb": 8.3,
+    "spend": 75,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-14",
+    "gb": 1.2,
+    "spend": 95,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-13",
+    "gb": 5.9,
+    "spend": 200,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-12",
+    "gb": 4.0,
+    "spend": 140,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-11",
+    "gb": 3.6,
+    "spend": 110,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-30",
+    "gb": 3.5,
+    "spend": 120,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-29",
+    "gb": 2.1,
+    "spend": 80
+  },
+  {
+    "date": "2025-09-28",
+    "gb": 3.5,
+    "spend": 100,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-27",
+    "gb": 4.2,
+    "spend": 50,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-26",
+    "gb": 6.7,
+    "spend": 220,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-25",
+    "gb": 1.9,
+    "spend": 130,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-24",
+    "gb": 5.1,
+    "spend": 410,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-23",
+    "gb": 7.3,
+    "spend": 90,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-22",
+    "gb": 2.8,
+    "spend": 300,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-21",
+    "gb": 9.4,
+    "spend": 150,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-20",
+    "gb": 3.2,
+    "spend": 210,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-19",
+    "gb": 4.7,
+    "spend": 80,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-18",
+    "gb": 6.1,
+    "spend": 120,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-17",
+    "gb": 7.8,
+    "spend": 60,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-16",
+    "gb": 2.4,
+    "spend": 180,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-15",
+    "gb": 8.3,
+    "spend": 75,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-14",
+    "gb": 1.2,
+    "spend": 95,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-13",
+    "gb": 5.9,
+    "spend": 200,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-12",
+    "gb": 4.0,
+    "spend": 140,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-11",
+    "gb": 3.6,
+    "spend": 110,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-30",
+    "gb": 3.5,
+    "spend": 120,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-29",
+    "gb": 2.1,
+    "spend": 80
+  },
+  {
+    "date": "2025-09-28",
+    "gb": 3.5,
+    "spend": 100,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-27",
+    "gb": 4.2,
+    "spend": 50,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-26",
+    "gb": 6.7,
+    "spend": 220,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-25",
+    "gb": 1.9,
+    "spend": 130,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-24",
+    "gb": 5.1,
+    "spend": 410,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-23",
+    "gb": 7.3,
+    "spend": 90,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-22",
+    "gb": 2.8,
+    "spend": 300,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-21",
+    "gb": 9.4,
+    "spend": 150,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-20",
+    "gb": 3.2,
+    "spend": 210,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-19",
+    "gb": 4.7,
+    "spend": 80,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-18",
+    "gb": 6.1,
+    "spend": 120,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-17",
+    "gb": 7.8,
+    "spend": 60,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-16",
+    "gb": 2.4,
+    "spend": 180,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-15",
+    "gb": 8.3,
+    "spend": 75,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-14",
+    "gb": 1.2,
+    "spend": 95,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-13",
+    "gb": 5.9,
+    "spend": 200,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-12",
+    "gb": 4.0,
+    "spend": 140,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-11",
+    "gb": 3.6,
+    "spend": 110,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-30",
+    "gb": 3.5,
+    "spend": 120,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-29",
+    "gb": 2.1,
+    "spend": 80
+  },
+  {
+    "date": "2025-09-28",
+    "gb": 3.5,
+    "spend": 100,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-27",
+    "gb": 4.2,
+    "spend": 50,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-26",
+    "gb": 6.7,
+    "spend": 220,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-25",
+    "gb": 1.9,
+    "spend": 130,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-24",
+    "gb": 5.1,
+    "spend": 410,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-23",
+    "gb": 7.3,
+    "spend": 90,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-22",
+    "gb": 2.8,
+    "spend": 300,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-21",
+    "gb": 9.4,
+    "spend": 150,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-20",
+    "gb": 3.2,
+    "spend": 210,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-19",
+    "gb": 4.7,
+    "spend": 80,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-18",
+    "gb": 6.1,
+    "spend": 120,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-17",
+    "gb": 7.8,
+    "spend": 60,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-16",
+    "gb": 2.4,
+    "spend": 180,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-15",
+    "gb": 8.3,
+    "spend": 75,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-14",
+    "gb": 1.2,
+    "spend": 95,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-13",
+    "gb": 5.9,
+    "spend": 200,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-12",
+    "gb": 4.0,
+    "spend": 140,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-11",
+    "gb": 3.6,
+    "spend": 110,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-30",
+    "gb": 3.5,
+    "spend": 120,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-29",
+    "gb": 2.1,
+    "spend": 80
+  },
+  {
+    "date": "2025-09-28",
+    "gb": 3.5,
+    "spend": 100,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-27",
+    "gb": 4.2,
+    "spend": 50,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-26",
+    "gb": 6.7,
+    "spend": 220,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-25",
+    "gb": 1.9,
+    "spend": 130,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-24",
+    "gb": 5.1,
+    "spend": 410,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-23",
+    "gb": 7.3,
+    "spend": 90,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-22",
+    "gb": 2.8,
+    "spend": 300,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-21",
+    "gb": 9.4,
+    "spend": 150,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-20",
+    "gb": 3.2,
+    "spend": 210,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-19",
+    "gb": 4.7,
+    "spend": 80,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-18",
+    "gb": 6.1,
+    "spend": 120,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-17",
+    "gb": 7.8,
+    "spend": 60,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-16",
+    "gb": 2.4,
+    "spend": 180,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-15",
+    "gb": 8.3,
+    "spend": 75,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-14",
+    "gb": 1.2,
+    "spend": 95,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-13",
+    "gb": 5.9,
+    "spend": 200,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-12",
+    "gb": 4.0,
+    "spend": 140,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-11",
+    "gb": 3.6,
+    "spend": 110,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-30",
+    "gb": 3.5,
+    "spend": 120,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-29",
+    "gb": 2.1,
+    "spend": 80
+  },
+  {
+    "date": "2025-09-28",
+    "gb": 3.5,
+    "spend": 100,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-27",
+    "gb": 4.2,
+    "spend": 50,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-26",
+    "gb": 6.7,
+    "spend": 220,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-25",
+    "gb": 1.9,
+    "spend": 130,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-24",
+    "gb": 5.1,
+    "spend": 410,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-23",
+    "gb": 7.3,
+    "spend": 90,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-22",
+    "gb": 2.8,
+    "spend": 300,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-21",
+    "gb": 9.4,
+    "spend": 150,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-20",
+    "gb": 3.2,
+    "spend": 210,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-19",
+    "gb": 4.7,
+    "spend": 80,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-18",
+    "gb": 6.1,
+    "spend": 120,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-17",
+    "gb": 7.8,
+    "spend": 60,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-16",
+    "gb": 2.4,
+    "spend": 180,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-15",
+    "gb": 8.3,
+    "spend": 75,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-14",
+    "gb": 1.2,
+    "spend": 95,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-13",
+    "gb": 5.9,
+    "spend": 200,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-12",
+    "gb": 4.0,
+    "spend": 140,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-11",
+    "gb": 3.6,
+    "spend": 110,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-30",
+    "gb": 3.5,
+    "spend": 120,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-29",
+    "gb": 2.1,
+    "spend": 80
+  },
+  {
+    "date": "2025-09-28",
+    "gb": 3.5,
+    "spend": 100,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-27",
+    "gb": 4.2,
+    "spend": 50,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-26",
+    "gb": 6.7,
+    "spend": 220,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-25",
+    "gb": 1.9,
+    "spend": 130,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-24",
+    "gb": 5.1,
+    "spend": 410,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-23",
+    "gb": 7.3,
+    "spend": 90,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-22",
+    "gb": 2.8,
+    "spend": 300,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-21",
+    "gb": 9.4,
+    "spend": 150,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-20",
+    "gb": 3.2,
+    "spend": 210,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-19",
+    "gb": 4.7,
+    "spend": 80,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-18",
+    "gb": 6.1,
+    "spend": 120,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-17",
+    "gb": 7.8,
+    "spend": 60,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-16",
+    "gb": 2.4,
+    "spend": 180,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-15",
+    "gb": 8.3,
+    "spend": 75,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-14",
+    "gb": 1.2,
+    "spend": 95,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-13",
+    "gb": 5.9,
+    "spend": 200,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-12",
+    "gb": 4.0,
+    "spend": 140,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-11",
+    "gb": 3.6,
+    "spend": 110,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-30",
+    "gb": 3.5,
+    "spend": 120,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-29",
+    "gb": 2.1,
+    "spend": 80
+  },
+  {
+    "date": "2025-09-28",
+    "gb": 3.5,
+    "spend": 100,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-27",
+    "gb": 4.2,
+    "spend": 50,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-26",
+    "gb": 6.7,
+    "spend": 220,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-25",
+    "gb": 1.9,
+    "spend": 130,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-24",
+    "gb": 5.1,
+    "spend": 410,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-23",
+    "gb": 7.3,
+    "spend": 90,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-22",
+    "gb": 2.8,
+    "spend": 300,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-21",
+    "gb": 9.4,
+    "spend": 150,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-20",
+    "gb": 3.2,
+    "spend": 210,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-19",
+    "gb": 4.7,
+    "spend": 80,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-18",
+    "gb": 6.1,
+    "spend": 120,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-17",
+    "gb": 7.8,
+    "spend": 60,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-16",
+    "gb": 2.4,
+    "spend": 180,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-15",
+    "gb": 8.3,
+    "spend": 75,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-14",
+    "gb": 1.2,
+    "spend": 95,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-13",
+    "gb": 5.9,
+    "spend": 200,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-12",
+    "gb": 4.0,
+    "spend": 140,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-11",
+    "gb": 3.6,
+    "spend": 110,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-30",
+    "gb": 3.5,
+    "spend": 120,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-29",
+    "gb": 2.1,
+    "spend": 80
+  },
+  {
+    "date": "2025-09-28",
+    "gb": 3.5,
+    "spend": 100,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-27",
+    "gb": 4.2,
+    "spend": 50,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-26",
+    "gb": 6.7,
+    "spend": 220,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-25",
+    "gb": 1.9,
+    "spend": 130,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-24",
+    "gb": 5.1,
+    "spend": 410,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-23",
+    "gb": 7.3,
+    "spend": 90,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-22",
+    "gb": 2.8,
+    "spend": 300,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-21",
+    "gb": 9.4,
+    "spend": 150,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-20",
+    "gb": 3.2,
+    "spend": 210,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-19",
+    "gb": 4.7,
+    "spend": 80,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-18",
+    "gb": 6.1,
+    "spend": 120,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-17",
+    "gb": 7.8,
+    "spend": 60,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-16",
+    "gb": 2.4,
+    "spend": 180,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-15",
+    "gb": 8.3,
+    "spend": 75,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-14",
+    "gb": 1.2,
+    "spend": 95,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-13",
+    "gb": 5.9,
+    "spend": 200,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-12",
+    "gb": 4.0,
+    "spend": 140,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-11",
+    "gb": 3.6,
+    "spend": 110,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-30",
+    "gb": 3.5,
+    "spend": 120,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-29",
+    "gb": 2.1,
+    "spend": 80
+  },
+  {
+    "date": "2025-09-28",
+    "gb": 3.5,
+    "spend": 100,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-27",
+    "gb": 4.2,
+    "spend": 50,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-26",
+    "gb": 6.7,
+    "spend": 220,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-25",
+    "gb": 1.9,
+    "spend": 130,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-24",
+    "gb": 5.1,
+    "spend": 410,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-23",
+    "gb": 7.3,
+    "spend": 90,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-22",
+    "gb": 2.8,
+    "spend": 300,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-21",
+    "gb": 9.4,
+    "spend": 150,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-20",
+    "gb": 3.2,
+    "spend": 210,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-19",
+    "gb": 4.7,
+    "spend": 80,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-18",
+    "gb": 6.1,
+    "spend": 120,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-17",
+    "gb": 7.8,
+    "spend": 60,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-16",
+    "gb": 2.4,
+    "spend": 180,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-15",
+    "gb": 8.3,
+    "spend": 75,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-14",
+    "gb": 1.2,
+    "spend": 95,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-13",
+    "gb": 5.9,
+    "spend": 200,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-12",
+    "gb": 4.0,
+    "spend": 140,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-11",
+    "gb": 3.6,
+    "spend": 110,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-30",
+    "gb": 3.5,
+    "spend": 120,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-29",
+    "gb": 2.1,
+    "spend": 80
+  },
+  {
+    "date": "2025-09-28",
+    "gb": 3.5,
+    "spend": 100,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-27",
+    "gb": 4.2,
+    "spend": 50,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-26",
+    "gb": 6.7,
+    "spend": 220,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-25",
+    "gb": 1.9,
+    "spend": 130,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-24",
+    "gb": 5.1,
+    "spend": 410,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-23",
+    "gb": 7.3,
+    "spend": 90,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-22",
+    "gb": 2.8,
+    "spend": 300,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-21",
+    "gb": 9.4,
+    "spend": 150,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-20",
+    "gb": 3.2,
+    "spend": 210,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-19",
+    "gb": 4.7,
+    "spend": 80,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-18",
+    "gb": 6.1,
+    "spend": 120,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-17",
+    "gb": 7.8,
+    "spend": 60,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-16",
+    "gb": 2.4,
+    "spend": 180,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-15",
+    "gb": 8.3,
+    "spend": 75,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-14",
+    "gb": 1.2,
+    "spend": 95,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-13",
+    "gb": 5.9,
+    "spend": 200,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-12",
+    "gb": 4.0,
+    "spend": 140,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-11",
+    "gb": 3.6,
+    "spend": 110,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-30",
+    "gb": 3.5,
+    "spend": 120,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-29",
+    "gb": 2.1,
+    "spend": 80
+  },
+  {
+    "date": "2025-09-28",
+    "gb": 3.5,
+    "spend": 100,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-27",
+    "gb": 4.2,
+    "spend": 50,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-26",
+    "gb": 6.7,
+    "spend": 220,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-25",
+    "gb": 1.9,
+    "spend": 130,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-24",
+    "gb": 5.1,
+    "spend": 410,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-23",
+    "gb": 7.3,
+    "spend": 90,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-22",
+    "gb": 2.8,
+    "spend": 300,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-21",
+    "gb": 9.4,
+    "spend": 150,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-20",
+    "gb": 3.2,
+    "spend": 210,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-19",
+    "gb": 4.7,
+    "spend": 80,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-18",
+    "gb": 6.1,
+    "spend": 120,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-17",
+    "gb": 7.8,
+    "spend": 60,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-16",
+    "gb": 2.4,
+    "spend": 180,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-15",
+    "gb": 8.3,
+    "spend": 75,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-14",
+    "gb": 1.2,
+    "spend": 95,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-13",
+    "gb": 5.9,
+    "spend": 200,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-12",
+    "gb": 4.0,
+    "spend": 140,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-11",
+    "gb": 3.6,
+    "spend": 110,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-30",
+    "gb": 3.5,
+    "spend": 120,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-29",
+    "gb": 2.1,
+    "spend": 80
+  },
+  {
+    "date": "2025-09-28",
+    "gb": 3.5,
+    "spend": 100,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-27",
+    "gb": 4.2,
+    "spend": 50,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-26",
+    "gb": 6.7,
+    "spend": 220,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-25",
+    "gb": 1.9,
+    "spend": 130,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-24",
+    "gb": 5.1,
+    "spend": 410,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-23",
+    "gb": 7.3,
+    "spend": 90,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-22",
+    "gb": 2.8,
+    "spend": 300,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-21",
+    "gb": 9.4,
+    "spend": 150,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-20",
+    "gb": 3.2,
+    "spend": 210,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-19",
+    "gb": 4.7,
+    "spend": 80,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-18",
+    "gb": 6.1,
+    "spend": 120,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-17",
+    "gb": 7.8,
+    "spend": 60,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-16",
+    "gb": 2.4,
+    "spend": 180,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-15",
+    "gb": 8.3,
+    "spend": 75,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-14",
+    "gb": 1.2,
+    "spend": 95,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-13",
+    "gb": 5.9,
+    "spend": 200,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-12",
+    "gb": 4.0,
+    "spend": 140,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-11",
+    "gb": 3.6,
+    "spend": 110,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-30",
+    "gb": 3.5,
+    "spend": 120,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-29",
+    "gb": 2.1,
+    "spend": 80
+  },
+  {
+    "date": "2025-09-28",
+    "gb": 3.5,
+    "spend": 100,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-27",
+    "gb": 4.2,
+    "spend": 50,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-26",
+    "gb": 6.7,
+    "spend": 220,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-25",
+    "gb": 1.9,
+    "spend": 130,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-24",
+    "gb": 5.1,
+    "spend": 410,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-23",
+    "gb": 7.3,
+    "spend": 90,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-22",
+    "gb": 2.8,
+    "spend": 300,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-21",
+    "gb": 9.4,
+    "spend": 150,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-20",
+    "gb": 3.2,
+    "spend": 210,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-19",
+    "gb": 4.7,
+    "spend": 80,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-18",
+    "gb": 6.1,
+    "spend": 120,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-17",
+    "gb": 7.8,
+    "spend": 60,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-16",
+    "gb": 2.4,
+    "spend": 180,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-15",
+    "gb": 8.3,
+    "spend": 75,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-14",
+    "gb": 1.2,
+    "spend": 95,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-13",
+    "gb": 5.9,
+    "spend": 200,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-12",
+    "gb": 4.0,
+    "spend": 140,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-11",
+    "gb": 3.6,
+    "spend": 110,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-30",
+    "gb": 3.5,
+    "spend": 120,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-29",
+    "gb": 2.1,
+    "spend": 80
+  },
+  {
+    "date": "2025-09-28",
+    "gb": 3.5,
+    "spend": 100,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-27",
+    "gb": 4.2,
+    "spend": 50,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-26",
+    "gb": 6.7,
+    "spend": 220,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-25",
+    "gb": 1.9,
+    "spend": 130,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-24",
+    "gb": 5.1,
+    "spend": 410,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-23",
+    "gb": 7.3,
+    "spend": 90,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-22",
+    "gb": 2.8,
+    "spend": 300,
+    "status": "Failed"
+  },
+  {
+    "date": "2025-09-21",
+    "gb": 9.4,
+    "spend": 150,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-20",
+    "gb": 3.2,
+    "spend": 210,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-19",
+    "gb": 4.7,
+    "spend": 80,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-18",
+    "gb": 6.1,
+    "spend": 120,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-17",
+    "gb": 7.8,
+    "spend": 60,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-16",
+    "gb": 2.4,
+    "spend": 180,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-15",
+    "gb": 8.3,
+    "spend": 75,
+    "status": "Pending"
+  },
+  {
+    "date": "2025-09-14",
+    "gb": 1.2,
+    "spend": 95,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-13",
+    "gb": 5.9,
+    "spend": 200,
+    "status": "In Progress"
+  },
+  {
+    "date": "2025-09-12",
+    "gb": 4.0,
+    "spend": 140,
+    "status": "Completed"
+  },
+  {
+    "date": "2025-09-11",
+    "gb": 3.6,
+    "spend": 110,
+    "status": "Pending"
+  },
+ {
+    "date": "2025-09-22",
+    "gb": 2.8,
+    "spend": 300,
+    "status": "Failed"
+  },
+  {
+    "date": "2025-09-22",
+    "gb": 2.8,
+    "spend": 300,
+    "status": "Failed"
+  },
+  {
+    "date": "2025-09-24",
+    "gb": 1.5,
+    "spend": 150,
+    "status": "Failed"
+  },
+  {
+    "date": "2025-09-27",
+    "gb": 2.2,
+    "spend": 250,
+    "status": "Failed"
+  },
+  {
+    "date": "2025-09-29",
+    "gb": 1.8,
+    "spend": 200,
+    "status": "Failed"
+  },
+  {
+    "date": "2025-10-01",
+    "gb": 2.5,
+    "spend": 280,
+    "status": "Failed"
+  },
+  {
+    "date": "2025-10-03",
+    "gb": 1.2,
+    "spend": 120,
+    "status": "Failed"
+  },
+  {
+    "date": "2025-10-05",
+    "gb": 2.0,
+    "spend": 220,
+    "status": "Failed"
+  },
+  {
+    "date": "2025-10-07",
+    "gb": 1.4,
+    "spend": 140,
+    "status": "Failed"
+  },
+  {
+    "date": "2025-10-09",
+    "gb": 2.6,
+    "spend": 290,
+    "status": "Failed"
+  },
+  {
+    "date": "2025-10-11",
+    "gb": 1.9,
+    "spend": 210,
+    "status": "Failed"
+  },
+  {
+    "date": "2025-10-13",
+    "gb": 2.3,
+    "spend": 260,
+    "status": "Failed"
+  },
+  {
+    "date": "2025-10-15",
+    "gb": 1.6,
+    "spend": 170,
+    "status": "Failed"
+  },
+  {
+    "date": "2025-10-17",
+    "gb": 2.9,
+    "spend": 310,
+    "status": "Failed"
+  },
+  {
+    "date": "2025-10-19",
+    "gb": 1.7,
+    "spend": 180,
+    "status": "Failed"
+  },
+  {
+    "date": "2025-10-21",
+    "gb": 2.1,
+    "spend": 230,
+    "status": "Failed"
+  },
+  {
+    "date": "2025-10-23",
+    "gb": 1.3,
+    "spend": 130,
+    "status": "Failed"
+  },
+  {
+    "date": "2025-10-25",
+    "gb": 2.7,
+    "spend": 300,
+    "status": "Failed"
+  },
+  {
+    "date": "2025-10-27",
+    "gb": 1.1,
+    "spend": 110,
+    "status": "Failed"
+  },
+  {
+    "date": "2025-10-29",
+    "gb": 2.4,
+    "spend": 270,
+    "status": "Failed"
+  },
+  {
+    "date": "2025-10-31",
+    "gb": 1.0,
+    "spend": 100,
+    "status": "Failed"
+  }
+
+  
+]
